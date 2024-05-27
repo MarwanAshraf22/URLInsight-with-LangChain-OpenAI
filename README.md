@@ -18,7 +18,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/MarwanAshraf22/URLInsight-with-LangChain-OpenAI.git
 ```
 2.Navigate to the project directory:
 
